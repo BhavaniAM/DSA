@@ -129,7 +129,7 @@ void print_stack(int* Stack, int top)
   printf("top = %d\n", top);
 }
 
-// Main logic of the code. Is a recursive algorithm to dissemble and assemble the tower of hanoi.
+// Main logic of the code. Is a recursive algorithm to dis-assemble and assemble the tower of hanoi.
 
 void toh(int size_stack, char a, char c, char b)
 {
