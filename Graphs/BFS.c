@@ -1,4 +1,3 @@
-%%writefile 190020011.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
