@@ -46,9 +46,9 @@ postorder sequence of numbers / blank line for empty BST
   
 <maximum number> / blank line for empty BST
   
-<successor> / <b> number </b> does not exist / <b> <successor> </b> of number does not exist (if the number is the maximum element)
+<b> <successor> </b> / <b> number </b> does not exist / <b> <successor> </b> of number does not exist (if the number is the maximum element)
   
-<predecessor> / <b> number </b> does not exist / <b> <predecessor> </b> of number does not exist (if the number is the minimum element)
+<b> <predecessor> </b> / <b> number </b> does not exist / <b> <predecessor> </b> of number does not exist (if the number is the minimum element)
 
 
 <b> Commands to execute the code on Google Colab </b>
