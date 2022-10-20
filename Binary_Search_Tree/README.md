@@ -10,9 +10,9 @@ At any point of time the BST only has distinct numbers.
 
 Each line in the input file has one of the following lines which specify the operation to be performed.
 
-insert <number>
+insert <b> number </b>
   
-search <number>
+search <b> number </b>
   
 inorder
   
@@ -24,17 +24,17 @@ minimum
   
 maximum
   
-successor <number>
+successor <b> number </b>
   
-predecessor <number>
+predecessor <b> number </b>
   
 <b> Output:- </b>
   
 The output file bst.txt has the result of the corresponding operation performed.
 
-<number> inserted
+<b> number </b> inserted
   
-<number> found/ <number> not found
+<number> found/ <b> number </b> not found
   
 inorder sequence of numbers / blank line for empty BST
   
@@ -46,9 +46,9 @@ postorder sequence of numbers / blank line for empty BST
   
 <maximum number> / blank line for empty BST
   
-<successor> / <number> does not exist / <successor> of number does not exist (if the number is the maximum element)
+<successor> / <b> number </b> does not exist / <b> <successor> </b> of number does not exist (if the number is the maximum element)
   
-<predecessor> / <number> does not exist / <predecessor> of number does not exist (if the number is the minimum element)
+<predecessor> / <b> number </b> does not exist / <b> <predecessor> </b> of number does not exist (if the number is the minimum element)
 
 
 <b> Commands to execute the code on Google Colab </b>
