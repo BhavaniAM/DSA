@@ -51,7 +51,7 @@ postorder sequence of numbers / blank line for empty BST
 <b> predecessor </b> / <b> number </b> does not exist / <b> predecessor </b> of number does not exist (if the number is the minimum element)
 
 
-<b> <h3> Commands to execute the code on Google Colab </h3> </b>
+<b> <h3> Commands to execute the code on Google Colab:- </h3> </b>
 
 !gcc BST.c
 
