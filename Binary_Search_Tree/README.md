@@ -42,9 +42,9 @@ preorder sequence of numbers / blank line for empty BST
   
 postorder sequence of numbers / blank line for empty BST
   
-<minimum number> / blank line for empty BST
-  
-<maximum number> / blank line for empty BST
+<b> minimum number </b> / blank line for empty BST
+ 
+<b> maximum number </b> / blank line for empty BST
   
 <b> successor </b> / <b> number </b> does not exist / <b> successor </b> of number does not exist (if the number is the maximum element)
   
