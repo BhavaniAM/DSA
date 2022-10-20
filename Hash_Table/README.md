@@ -6,6 +6,7 @@ Hash the words present in words.txt using the sum of the ASCII values of the cha
 <b> Input:- </b>
 
 words.txt - one word at each line
+
 query.txt - one word at each line
 
 <b> Output:- </b>
