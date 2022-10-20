@@ -1,4 +1,4 @@
-<h1> To implement BFS to solve the single-source shortest path problem on undirected graphs. </h1>
+<h1> BFS implementation to solve the single-source shortest path problem on undirected graphs. </h1>
 
 
 
