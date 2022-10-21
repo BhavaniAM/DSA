@@ -9,6 +9,7 @@ Each line in the input file has one of the 4 symbols:- '+', '-', '?', '!'
   - '-' stands for POP
   - '?' stands for SEARCH
   - '!' stands for DISPLAY
+  
 '+' and '?' are always followed by a number.
 
 <b> <h3> Output:- </h3> </b>
