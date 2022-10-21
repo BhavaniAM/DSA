@@ -1,6 +1,6 @@
 <h1> Implement a doubly linked list </h1>
 
-Operations performed:- enqueue, dequeue, search and display
+Operations performed:- insert, delete, search and display
 
 
 <b> <h3> Input:- </h3> </b>
