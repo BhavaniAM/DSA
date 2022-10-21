@@ -18,6 +18,8 @@ The order of operations to be performed to move the disks from stack A to stack 
 
 !gcc toh.c
 
-!./a.out <b> number of disks </b>
+!./a.out <b> number_of_disks </b>
+
+
 
 toh_5.txt contains the sample output for a Hanoi tower of size 5.
