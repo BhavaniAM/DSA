@@ -18,7 +18,7 @@ Each line in the output file has the operation performed corresponding to that l
 
 <b> <h3> Commands to execute the code on Google Colab:- </h3> </b>
 
-!gcc sll.c
+!gcc Stack_using_SLL.c
 
 !./a.out input.txt <b> stack_size </b>
 
