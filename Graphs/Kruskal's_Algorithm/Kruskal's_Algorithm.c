@@ -1,4 +1,4 @@
-%%writefile 190020011.c
+%%writefile Kruskal.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
