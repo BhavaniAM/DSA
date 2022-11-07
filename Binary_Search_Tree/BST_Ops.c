@@ -2,10 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Reference: slides provided in the lab
-
-// There is some difference in the last white space when the traversals are printed
-
 // file pointers to read and write
 FILE *fp_read, *fp_write;
 
