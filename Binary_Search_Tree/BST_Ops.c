@@ -143,8 +143,8 @@ int main(int argc, char* argv[])
                 if(a[k] > min)
                 min = a[k];
               }
-              }
             }
+          }
             if(!flag)
             {
               fp_write = fopen("bst.txt", "a");
