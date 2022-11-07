@@ -203,26 +203,26 @@ int main(int argc, char* argv[])
                 if(a[k] < max)
                 max = a[k];
               }
-              }
-            }
-            if(!flag)
-            {
-              fp_write = fopen("bst.txt", "a");
-              fprintf(fp_write, "successor of %d does not exist\n", new_num);
-              fclose(fp_write);
-            }
-            else
-            {
-              fp_write = fopen("bst.txt", "a");
-              fprintf(fp_write, "%d\n", max);
-              fclose(fp_write);
             }
           }
+          if(!flag)
+          {
+            fp_write = fopen("bst.txt", "a");
+            fprintf(fp_write, "successor of %d does not exist\n", new_num);
+            fclose(fp_write);
+          }
+          else
+          {
+            fp_write = fopen("bst.txt", "a");
+            fprintf(fp_write, "%d\n", max);
+            fclose(fp_write);
+          }
         }
-        if(!outer_f)
-        {
-          fp_write = fopen("bst.txt", "a");
-          fprintf(fp_write, "%d does not exist\n", new_num);
+      }
+      if(!outer_f)
+      {
+         fp_write = fopen("bst.txt", "a");
+         fprintf(fp_write, "%d does not exist\n", new_num);
           fclose(fp_write);
         }
     }
