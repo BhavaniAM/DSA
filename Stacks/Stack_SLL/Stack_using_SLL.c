@@ -1,3 +1,4 @@
+%%writefile Stack_using_SLL.c
 #include<stdio.h>
 #include <stdlib.h>
 #include <string.h>
