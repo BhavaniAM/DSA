@@ -5,7 +5,7 @@ Each line in the input file is an integer.
   
 <b> <h3> Output:- </h3> </b>
 
-Contains the integers in ascending order.
+The output file contains the integers sorted in ascending order.
 
 
 <b> <h3> Commands to execute the code on Google Colab:- </h3> </b>
