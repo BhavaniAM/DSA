@@ -1,4 +1,4 @@
-<h1> BFS implementation to topologically sort a graph using Depth First Search. </h1>
+<h1> Topologically sort a graph using Depth First Search. </h1>
 
 <b> <h3> Input:- </h3> </b>
 The first line has 2 inputs:- the number of vertices and the number of edges
